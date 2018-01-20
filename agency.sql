@@ -1,3 +1,5 @@
+-- Table structure for table `agency`
+
 CREATE TABLE `agency` 
 ( 
     `AgencyId` INT UNSIGNED NOT NULL AUTO_INCREMENT, 
