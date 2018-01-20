@@ -1,3 +1,5 @@
+-- Table structure for table `job_technology`
+
 CREATE TABLE `job_technology` 
 ( 
     `JobId` INT UNSIGNED NOT NULL, 
