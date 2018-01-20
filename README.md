@@ -1,7 +1,9 @@
 # charles.art.br website
 ## MySQL scripts 
 
-![datababe diagram](https://raw.githubusercontent.com/charlesartbr/charles.art.br-mysql/master/diagram.svg)
+SQL scripts for creation of charles.art.br´s website MySQL database
+
+![database diagram](https://raw.githubusercontent.com/charlesartbr/charles.art.br-mysql/master/diagram.png)
 
 ## Source
 
