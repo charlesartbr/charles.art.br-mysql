@@ -8,6 +8,7 @@ SQL scripts for creation of charles.art.br´s website MySQL database.
 * **Company:** the final costumer;
 * **Technology:** (programming language, database engine, tool, etc) used in a job.
 
+
 ![database diagram](https://raw.githubusercontent.com/charlesartbr/charles.art.br-mysql/master/diagram.png)
 
 ## Source
