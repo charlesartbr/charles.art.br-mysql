@@ -1,3 +1,5 @@
+-- Table structure for table `technology`
+
 CREATE TABLE `technology` 
 ( 
     `TechnologyId` INT UNSIGNED NOT NULL AUTO_INCREMENT, 
