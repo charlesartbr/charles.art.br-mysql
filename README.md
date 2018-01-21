@@ -7,6 +7,7 @@ SQL scripts for creation of charles.art.br´s website MySQL database.
 * **Agency:** the contractor;
 * **Company:** the final costumer;
 * **Technology:** (programming language, database engine, tool, etc) used in a job.
+* **Type:** type of technology for ordering (programming language, database engine, tool, etc)
 
 
 ![database diagram](https://raw.githubusercontent.com/charlesartbr/charles.art.br-mysql/master/diagram.png)
