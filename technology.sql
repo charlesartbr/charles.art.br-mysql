@@ -8,5 +8,6 @@ CREATE TABLE `technology`
     `Description` TEXT NULL, 
     `Icon` VARCHAR(1000) NOT NULL, 
     `Url` VARCHAR(1000) NOT NULL, 
-    PRIMARY KEY (`TechnologyId`)
+    PRIMARY KEY (`TechnologyId`),
+    INDEX `IX_TypeId` (`TypeId`)
 ) ENGINE = InnoDB;
