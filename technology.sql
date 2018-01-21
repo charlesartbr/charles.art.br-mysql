@@ -3,6 +3,7 @@
 CREATE TABLE `technology` 
 ( 
     `TechnologyId` INT UNSIGNED NOT NULL AUTO_INCREMENT, 
+    `TypeId` TINYINT UNSIGNED NOT NULL,
     `Name` VARCHAR(100) NOT NULL, 
     `Description` TEXT NULL, 
     `Icon` VARCHAR(1000) NOT NULL, 
