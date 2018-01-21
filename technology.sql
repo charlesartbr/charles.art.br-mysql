@@ -11,3 +11,7 @@ CREATE TABLE `technology`
     PRIMARY KEY (`TechnologyId`),
     INDEX `IX_TypeId` (`TypeId`)
 ) ENGINE = InnoDB;
+
+ALTER TABLE `technology` 
+ADD CONSTRAINT `FK_TypeId` FOREIGN KEY (`TypeId`) REFERENCES `type`(`TypeId`) 
+ON DELETE RESTRICT ON UPDATE RESTRICT;
